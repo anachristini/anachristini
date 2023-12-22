@@ -18,4 +18,4 @@
   
 </div>
 
-![Snack aniamtion](https://github.com/anachristini/anachristini/blob/output/github-contribuition-grid-snake.svg)
+![Snack animation](https://github.com/anachristini/anachristini/blob/output/github-contribuition-grid-snake.svg)
