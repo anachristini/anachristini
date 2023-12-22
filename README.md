@@ -23,6 +23,4 @@
   
 </div>
 
-![Snake animation](https://github.com/anachristini/anachristini/blob/output/github-contribuition-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=anachristini&repo=anachristini&theme=react)](https://github.com/anachristini/anachristini)
+![snake gif](https://github.com/anachristini/[SEU_REPOSITORIO](https://github.com/anachristini/anachristini.git)https://github.com/anachristini/anachristini.git/blob/output/github-contribution-grid-snake.svg)
