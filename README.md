@@ -24,3 +24,5 @@
 </div>
 
 ![Snack animation](https://github.com/anachristini/anachristini/blob/output/github-contribuition-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=anachristini&repo=anachristini&theme=react)](https://github.com/anachristini/anachristini)
